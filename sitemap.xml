@@ -11,16 +11,19 @@
     <loc>https://dotnetdive.com/posts/code_syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dotnetdive.com/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dotnetdive.com/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dotnetdive.com/tags/markdown/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dotnetdive.com/</loc>
+    <loc>https://dotnetdive.com/posts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dotnetdive.com/posts/</loc>
+    <loc>https://dotnetdive.com/series/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dotnetdive.com/tags/syntax/</loc>
@@ -34,5 +37,12 @@
   </url><url>
     <loc>https://dotnetdive.com/categories/themes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dotnetdive.com/series/themes-guide/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dotnetdive.com/archives/</loc>
+  </url><url>
+    <loc>https://dotnetdive.com/search/</loc>
   </url>
 </urlset>
